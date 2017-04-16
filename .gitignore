@@ -1,0 +1,6 @@
+data
+.ipynb_checkpoints
+__temp__.mp4
+.DS_Store
+*.p
+__pycache__
